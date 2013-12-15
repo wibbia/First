@@ -4,6 +4,5 @@ import random
 
 while True:
   numb = random.randint(0,1)
-  print(numb),
-  
+  print "numb",
   
