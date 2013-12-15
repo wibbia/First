@@ -1,10 +1,8 @@
 First
 =====
 
-first repository
+This is my first github thing
 
-Hello World
-
-This is my first Git invention so it is rubbish!
+Matrix
 
 Thanks
